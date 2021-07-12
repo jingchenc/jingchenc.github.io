@@ -2,7 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://jingchenc.github.io/categories/index.html</loc>
+    
+    <lastmod>2021-07-12</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://jingchenc.github.io/2021/07/12/happy_fourth/</loc>
+    
+    <lastmod>2021-07-12</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://jingchenc.github.io/tags/index.html</loc>
     
     <lastmod>2021-07-12</lastmod>
     
@@ -23,13 +37,6 @@
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>https://jingchenc.github.io/tags/lifestyle/</loc>
-    <lastmod>2021-07-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
 
   
